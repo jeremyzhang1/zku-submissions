@@ -1,2 +1,10 @@
+# Documents and temp files
 *.docx
 *.tmp
+testing_info.txt
+
+# Circom build files
+/circom
+
+# Vscode config files
+.vscode
